@@ -8,3 +8,4 @@
 - [Gravitational attraction](https://gravitational-attraction.herokuapp.com/)
 - [Matrix effect](https://skilful522.github.io/MatrixEffects/)
 - [Image replacer](https://skilful522.github.io/ImageReplacer/)
+- [Congratulator - app for wishing happy birthday to my friends from VK](https://skilful522.github.io/Congratulator/)
