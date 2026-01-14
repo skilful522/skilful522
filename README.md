@@ -2,6 +2,7 @@
 
 # Projects
 
+- [Mystic match](https://mystic-match-production.up.railway.app/)
 - [Pokemon 2D game](https://skilful522.github.io/pokemon2D/)
 - [SnakeJS game](https://snakejs-production.up.railway.app/)
 - [BlowEmOrPoop game](https://skilful522.github.io/BlowEmOrPoop/)
